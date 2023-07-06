@@ -1,8 +1,25 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtycDU0NWdtZGptM3hpMTN4ZDBmM2dkZ3l4ZGp1Z2RsMHR1bjltOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+<a href="linkedin.com/in/rashmi09/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+</div>
+
 - 👋 Hi, I’m @RashmiBS
 - 👀 I’m interested in Problem Solving and programming.
-- 🌱 I’m currently learning GCP , terraform .
-- 💞️ I’m looking forward to collaborate on programming , problem solving and Learning new technilogies.
+- 🌱 I’m currently working on GCP and terraform 
+- 💞️ I’m looking forward to collaborate on programming , problem solving and learning new technilogies.
 - 📫 Reach me @rashmi.sridevi@gmail.com
+
+**My Stats:**
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Rashmi0986/Rashmi0986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
