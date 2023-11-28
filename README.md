@@ -12,7 +12,7 @@
 - 👋 Hi, I’m @RashmiBS
 - 👀 I’m interested in Problem Solving and programming.
 - 🌱 I’m currently working on GCP and terraform 
-- 💞️ I’m looking forward to collaborate on programming , problem solving and learning new technilogies.
+- 💞️ I’m looking forward to collaborate on programming , problem solving and learning new technologies.
 - 📫 Reach me @rashmi.sridevi@gmail.com
 
 **My Stats:**
