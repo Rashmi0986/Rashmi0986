@@ -11,7 +11,7 @@
 
 - 👋 Hi, I’m @RashmiBS
 - 👀 I’m interested in Problem Solving and programming.
-- 🌱 I’m currently working on GCP,AWS,Azure and terraform, Kubernetes .
+- 🌱 I’m currently working on GCP, AWS, Azure and terraform, Kubernetes .
 - 💞️ I’m looking forward to collaborate on programming , problem solving and learning new technologies.
 - 📫 Reach me @rashmi.sridevi@gmail.com
 
