@@ -10,8 +10,9 @@
 </div>
 
 - 👋 Hi, I’m @RashmiBS
-- 👀 I’m interested in Problem Solving and programming.
-- 🌱 I’m currently working on GCP, AWS, Azure and terraform, Kubernetes .
+- 👀 I’m interested in Problem solving and programming.
+- 🌱 I’m currently working as QA with hands on experience in GCP, AWS, Azure and terraform, Kubernetes .
+- :computer: Am an AI pratcitioner explorig how to augment AI in the daily automation activities to become productive.
 - 💞️ I’m looking forward to collaborate on programming , problem solving and learning new technologies.
 - 📫 Reach me @rashmi.sridevi@gmail.com
 
