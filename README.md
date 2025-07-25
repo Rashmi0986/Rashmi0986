@@ -12,7 +12,7 @@
 - 👋 Hi, I’m @RashmiBS
 - 👀 I’m interested in Problem solving and programming.
 - 🌱 I’m currently working as QA with hands on experience in GCP, AWS, Azure and terraform, Kubernetes .
-- :electric_plug: Am an AI practitioner explorig how to augment AI in the daily automation activities to become productive.
+- 🔌 I'm an AI practitioner explorig how to augment AI in the daily automation activities to become productive.
 - 💞️ I’m looking forward to collaborate on programming , problem solving and learning new technologies.
 - 📫 Reach me @rashmi.sridevi@gmail.com
 
